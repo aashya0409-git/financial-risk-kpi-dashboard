@@ -1,0 +1,8 @@
+# Ignore data files and output
+data/raw/*
+data/cleaned/*
+powerbi/*.pbix
+*.ipynb_checkpoints
+__pycache__/
+.DS_Store
+.env
